@@ -2,7 +2,7 @@
 
 This is the repository for the aforementioned undergraduate thesis by Avancena et al. (2024). 
 
-The links below show the Google Colab notebooks that was used to implement the methodology of the study.
+The links below show the Google Colab notebooks that were used to implement the methodology of the study.
 
 CAS
 * All variables & Effluent Chlorine Residual as Target: https://colab.research.google.com/drive/1Nbso0YILcgZeGQ3pOXzGi7tWImXGKNS4?usp=share_link
